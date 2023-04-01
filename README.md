@@ -5,7 +5,7 @@ An item system with 3D item inspection and inventory system made of scriptable o
 2. In the "Scenes" folder open the "InventoryRoom" scene.
 3. Start the application.
 
-Tab to open/close the inventory UI and left click to interact with the objects.
+Note: Tab to open/close the inventory UI and left click to interact with the objects.
 
 ![Screenshot_32](https://user-images.githubusercontent.com/129271569/229296961-f2f217bf-0c4a-4fcb-ae57-f493d977d8ac.png)
 

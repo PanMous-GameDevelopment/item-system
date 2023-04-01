@@ -1,5 +1,5 @@
 # item-system
-An item system with 3D item inspection and inventory system made of scriptable objects. Soon to be updated with a crafting system as well
+An item system with 3D item inspection and inventory system made of scriptable objects. Soon to be updated with a crafting system as well.
 
 1. Open the "Save_System" folder with Unity.
 2. In the "Scenes" folder open the "InventoryRoom" scene.
